@@ -1,0 +1,9 @@
+{
+    "servers": {
+        "Kompas AI Docs": {
+            "url": "https://docs.kompas.ai/kompas-ai-docs-ver2/~gitbook/mcp",
+            "type": "http"
+        }
+    },
+    "inputs": []
+}
